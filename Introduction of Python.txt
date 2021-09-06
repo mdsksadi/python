@@ -1,0 +1,6 @@
+Python is the firstest growing language interms of number of developer, libraris, companis, areas etc.
+It's also called a general purpose language.
+It's a Interpreated, Object Oriented and High level language.
+Simple than any other languages.
+So many large companies use python.
+
