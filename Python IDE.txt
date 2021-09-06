@@ -1,0 +1,12 @@
+
+Python Interpreter
+IDE => Integrated Developement Environment
+
+IDE can debugging
+
+Pycharm is the recommended IDE. But we can use others also.
+
+Checking python is working or not:
+windows+R==> cmd ==> python --version
+
+
